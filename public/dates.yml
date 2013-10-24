@@ -1,7 +1,4 @@
 ---
-- title: End of The Stone Age
-  year: -2000
-
 - title: Bronze Age
   start_year: -3600
   end_year: -600
@@ -13,10 +10,9 @@
 - title: Early Dynastic Period of Ancient Egypt
   start_year: -3100
   end_year: -2686
-
-- title: Lifetime of Abraham
-  start_year: -1948
-  end_year: -2123
+  
+- title: End of The Stone Age
+  year: -2000
 
 - title: Iron Age
   start_year: -1200
@@ -156,7 +152,7 @@
   end_year: 1824
 
 - title: The Voyage of The Beagle
-  date: 1831
+  year: 1831
 
 - title: Reign of Queen Victoria
   start_year: 1837
