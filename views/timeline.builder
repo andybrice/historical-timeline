@@ -1,5 +1,8 @@
+xml.instruct! 'xml-stylesheet', :type => 'text/css', :href => '/timeline.css'
+
 xml.svg :xmlns => 'http://www.w3.org/2000/svg', :version => 1.1, :width => 6100, :height => 3000, 'transform-origin' => '100, 200' do
   xml.title 'Historical Timeline Generator by Andy Brice'
+  
 
   xml.g :transform => "translate(4050.5, 50.5)" do
     @year_range.each do |year|
@@ -8,13 +11,12 @@ xml.svg :xmlns => 'http://www.w3.org/2000/svg', :version => 1.1, :width => 6100,
       
       if year % 100 == 0
         
-        xml.check_mark( year, 20, :style => 'stroke-width: 1; stroke: #999999' )
+        xml.check_mark( year, 20, 'stroke-width' => 1, :stroke => '#999999' )
        
         xml.line :x1 => year,
                  :y1 => 30,
                  :x2 => year,
-                 :y2 => 2000,
-                 :style => 'stroke-width: 1; stroke: #E7E7E7'
+                 :y2 => 2000
                  
         xml.text year,
                  :x => year,
@@ -28,11 +30,7 @@ xml.svg :xmlns => 'http://www.w3.org/2000/svg', :version => 1.1, :width => 6100,
       
       elsif year % 50 == 0
         
-        xml.line :x1 => year,
-                 :y1 => 0,
-                 :x2 => year,
-                 :y2 => 15,
-                 :style => 'stroke-width: 1; stroke: #999999'
+        xml.check_mark( year, 15, :style => 'stroke-width: 1; stroke: #999999' ) 
                  
         xml.text '50',
                  :x => year,
@@ -45,12 +43,9 @@ xml.svg :xmlns => 'http://www.w3.org/2000/svg', :version => 1.1, :width => 6100,
       # every decade
       
       elsif year % 10 == 0
+      
+        xml.check_mark( year, 10, :style => 'stroke-width: 1; stroke: #999999' )
         
-        xml.line :x1 => year,
-                 :y1 => 0,
-                 :x2 => year,
-                 :y2 => 10,
-                 :style => 'stroke-width: 1; stroke: #999999'
       end
     end
     

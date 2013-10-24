@@ -6,6 +6,9 @@ class Builder::XmlMarkup
   def check_mark( x, length, attributes = {} )
     self.line attributes, :x1 => x, :y1 => 0, :x2 => x, :y2 => length
   end
+  
+  def check_label( x, text, attributes = {} )
+  end
 end
 
 get '/timeline' do
