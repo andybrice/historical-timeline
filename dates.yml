@@ -1,0 +1,247 @@
+---
+- title: End of The Stone Age
+  year: -2000
+
+- title: Bronze Age
+  start_year: -3600
+  end_year: -600
+
+- title: Indus Valley Civilisation
+  start_year: -3300
+  end_year: -1300
+
+- title: Early Dynastic Period of Ancient Egypt
+  start_year: -3100
+  end_year: -2686
+
+- title: Lifetime of Abraham
+  start_year: -1948
+  end_year: -2123
+
+- title: Iron Age
+  start_year: -1200
+  end_year: 500
+
+- title: Late Period of Ancient Egypt
+  start_year: -664
+  end_year: -332
+
+- title: Lifetime of Buddah
+  start_year: -563
+  end_year: -483
+
+- title: First Persian Empire
+  start_year: -550
+  end_year: -330
+
+- title: Greco-Persian Wars
+  start_year: -499
+  end_year: -449
+
+- title: Construction of the Parthenon
+  start_year: -447
+  end_year: -438
+
+- title: Lifetime of Alexander the Great
+  start_year: -356
+  end_year: -323
+
+- title: Lifetime of Archimedes
+  start_year: -287
+  end_year: -212
+
+- title: Roman Conquest of Greece
+  start_year: -146
+  end_year: -133
+
+- title: Lifetime of Christ
+  start_year: -7
+  end_year: 33
+
+- title: Roman Rule of Britain
+  start_year: 43
+  end_year: 409
+
+- title: Middle Ages
+  start_year: 400
+  end_year: 1500
+
+- title: Muhammad Leaves Mecca for Medina
+  year: 622
+
+- title: Islamic Conquest of Egypt
+  start_year: 639
+  end_year: 642
+
+- title: Battle of Hastings
+  year: 1066
+
+- title: Mongol Invasion of Rus'
+  start_year: 1223
+  end_year: 1240
+
+- title: Black Death (Peak in Europe)
+  year: 1349
+
+- title: Lifetime of Leondardo da Vinci
+  start_year: 1452
+  end_year: 1519
+
+- title: Fall of Constantinople (to the Ottoman Empire)
+  year: 1453
+
+- title: Lifetime of Nicolaus Copernicus
+  start_year: 1473
+  end_year: 1543
+
+- title: Christopher Columbus Lands in The Americas
+  year: 1492
+
+- title: Reign of King Henry VIII
+  start_year: 1509
+  end_year: 1547
+
+- title: Spanish Conquest of the Aztec Empire
+  start_year: 1519
+  end_year: 1521
+
+- title: Lifetime of Galileo Galilei
+  start_year: 1564
+  end_year: 1642
+
+- title: Tokugawa Shogunate
+  start_year: 1603
+  end_year: 1867
+
+- title: Seven Years War
+  start_year: 1756
+  end_year: 1763
+
+- title: Industrial Revolution
+  start_year: 1760
+  end_year: 1840
+
+- title: Lifetime of Napoleon Bonaparte
+  start_year: 1769
+  end_year: 1821
+
+- title: Captain James Cook Lands in Australia
+  year: 1770
+
+- title: American War of Independence
+  start_year: 1775
+  end_year: 1783
+
+- title: French Revolution
+  start_year: 1788
+  end_year: 1789
+
+- title: Haitian Revolution
+  start_year: 1791
+  end_year: 1804
+
+- title: Coup of Napoleon Bonaparte
+  year: 1799
+
+- title: Mexican War of Independence
+  start_year: 1810
+  end_year: 1821
+
+- title: Lifetime of Karl Marx
+  start_year: 1818
+  end_year: 1883
+
+- title: Independence of Brazil
+  start_year: 1821
+  end_year: 1824
+
+- title: The Voyage of The Beagle
+  date: 1831
+
+- title: Reign of Queen Victoria
+  start_year: 1837
+  end_year: 1901
+
+- title: First Opium War
+  start_year: 1839
+  end_year: 1842
+
+- title: Second Opium War
+  start_year: 1856
+  end_year: 1860
+
+- title: British Raj
+  start_year: 1858
+  end_year: 1947
+
+- title: Lifetime of Mahatma Gandhi
+  start_year: 1869
+  end_year: 1948
+
+- title: Lifetime of Vladimir Lenin
+  start_year: 1870
+  end_year: 1924
+
+- title: Lifetime of Joseph Stalin
+  start_year: 1878
+  end_year: 1953
+
+- title: First World War
+  start_year: 1914
+  end_year: 1918
+
+- title: Women's Suffrage in the UK
+  year: 1918
+
+- title: Xinhai Revolution
+  year: 1911
+
+- title: The Soviet Union
+  start_year: 1922
+  end_year: 1991
+
+- title: Second World War
+  start_year: 1939
+  end_year: 1945
+
+- title: Cold War
+  start_year: 1947
+  end_year: 1991
+
+- title: Israel Established
+  year: 1948
+
+- title: Chinese Communist Revolution
+  year: 1949
+
+- title: Korean War
+  start_year: 1950
+  end_year: 1953
+
+- title: Vietnam War
+  start_year: 1955
+  end_year: 1975
+
+- title: Great Leap Forward
+  start_year: 1958
+  end_year: 1961
+
+- title: Chinese Cultural Revolution
+  start_year: 1966
+  end_year: 1976
+
+- title: Khmer Rouge
+  start_year: 1975
+  end_year: 1979
+
+- title: Office of Mikhail Gorbachev
+  start_year: 1985
+  end_year: 1991
+
+- title: Fall of the Berlin Wall
+  year: 1989
+
+- title: Gulf War
+  start_year: 1990
+  end_year: 1991
+---
