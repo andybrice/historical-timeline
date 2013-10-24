@@ -1,4 +1,39 @@
 line {
-  stroke: red;
-  stroke-width: 2;
+  stroke-width: 1;
+}
+
+line.check {
+  stroke: #999999;
+}
+
+line.grid {
+  stroke: #E5E5E5;  
+}
+
+line.event {
+  stroke: #999999;
+}
+
+text {
+  font-family: Helvetica, sans-serif;
+}
+
+text.event {
+  font-size: 12px;
+  fill: gray;
+}
+
+text.check.century {
+  font-size: 12px;
+  fill: black;
+}
+
+text.check.half-century {
+  font-size: 9px;
+  fill: #999999;
+}
+
+rect.event {
+  fill: #E5E5E5;
+  stroke: #999999; 
 }
