@@ -1,0 +1,196 @@
+---
+- title: Thales
+  start_year: -624
+  end_year: -546
+
+- title: Anaximander
+  start_year: -611
+  end_year: -546
+
+- title: Pythagoras
+  start_year: -570
+  end_year: -495
+
+- title: Buddah
+  start_year: -563
+  end_year: -483
+
+- title: Confucius
+  start_year: -551
+  end_year: -479
+
+- title: Heraclitus
+  start_year: -535
+  end_year: -475
+
+- title: Parmenides
+  start_year: -515
+  end_year: -460
+
+- title: Anaxagoras
+  start_year: -510
+  end_year: -428
+
+- title: Empedocles
+  start_year: -490
+  end_year: -430
+
+- title: Gorgias
+  start_year: -485
+  end_year: -380
+
+- title: Socrates
+  start_year: -469
+  end_year: -399
+
+- title: Democritus
+  start_year: -460
+  end_year: -370
+
+- title: Plato
+  start_year: -427
+  end_year: -348
+
+- title: Aristotle
+  start_year: -384
+  end_year: -322
+
+
+- title: Christ
+  start_year: -7
+  end_year: 33
+
+
+- title: Thomas Aquinas
+  start_year: 1225
+  end_year: 1274
+
+
+- title: The Rennaissance
+  start_year: 1350
+  end_year: 1550
+
+
+- title: The Protestant Reformation
+  year: 1517
+
+- title: René Descartes
+  start_year: 1596
+  end_year: 1650
+
+- title: John Locke
+  start_year: 1632
+  end_year: 1704
+
+- title: Baruch Spinoza
+  start_year: 1632
+  end_year: 1677
+
+- title: The Enlightenment
+  start_year: 1650
+  end_year: 1800
+
+- title: Adam Smith
+  start_year: 1723
+  end_year: 1790
+
+- title: Immanuel Kant
+  start_year: 1724
+  end_year: 1804
+
+- title: Jeremy Bentham
+  start_year: 1748
+  end_year: 1832
+
+- title: The Industrial Revolution
+  start_year: 1760
+  end_year: 1840
+
+- title: Georg Wilhelm Friedrich Hegel
+  start_year: 1770
+  end_year: 1831
+
+- title: Arthur Schopenhauer
+  start_year: 1788
+  end_year: 1860
+
+- title: John Stuart Mill
+  start_year: 1806
+  end_year: 1873
+
+- title: Søren Kierkegaard
+  start_year: 1813
+  end_year: 1855
+
+- title: Karl Marx
+  start_year: 1818
+  end_year: 1883
+
+- title: Fyodor Dostoyevsky
+  start_year: 1821
+  end_year: 1881
+
+- title: Leo Tolstoy
+  start_year: 1828
+  end_year: 1910
+
+- title: Friedrich Nietzsche
+  start_year: 1844
+  end_year: 1900
+
+- title: Sigmund Freud
+  start_year: 1856
+  end_year: 1939 
+
+- title: Lev Shestov
+  start_year: 1866
+  end_year: 1938
+
+- title: Maria Montessori
+  start_year: 1870
+  end_year: 1952
+
+- title: Carl Jung
+  start_year: 1875
+  end_year: 1961
+
+- title: Franz Kafka
+  start_year: 1883
+  end_year: 1924
+
+- title: John Maynard Keynes
+  start_year: 1883
+  end_year: 1946
+
+- title: Martin Heidegger
+  start_year: 1889
+  end_year: 1976
+
+- title: Jean-Paul Sartre
+  start_year: 1905
+  end_year: 1980
+
+- title: Ayn Rand
+  start_year: 1905
+  end_year: 1982
+
+- title: Milton Friedman
+  start_year: 1912
+  end_year: 2006
+
+- title: Albert Camus
+  start_year: 1913
+  end_year: 1960
+
+- title: The First World War
+  start_year: 1914
+  end_year: 1918
+
+- title: John Rawls
+  start_year: 1921
+  end_year: 2002
+
+- title: The Second World War
+  start_year: 1939
+  end_year: 1945
+---
