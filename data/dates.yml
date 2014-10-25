@@ -10,7 +10,7 @@
 - title: Early Dynastic Period of Ancient Egypt
   start_year: -3100
   end_year: -2686
-  
+
 - title: End of The Stone Age
   year: -2000
 
@@ -50,6 +50,14 @@
   start_year: -146
   end_year: -133
 
+- title: Reign of Julius Caesar
+  start_year: -49
+  end_year: -44
+
+- title: Pax Romana
+  start_year: -27
+  end_year: 180
+
 - title: Lifetime of Christ
   start_year: -7
   end_year: 33
@@ -58,9 +66,20 @@
   start_year: 43
   end_year: 409
 
+- title: Partition of the Roman Empire
+  year: 285
+
+- title: Reign of Constantine
+  start_year: 306
+  end_year: 337
+
 - title: Middle Ages
   start_year: 400
   end_year: 1500
+
+- title: Anglo Saxon Period
+  start_year: 550
+  end_year: 1066
 
 - title: Muhammad Leaves Mecca for Medina
   year: 622
@@ -69,8 +88,34 @@
   start_year: 639
   end_year: 642
 
-- title: Battle of Hastings
+- title: Sutton Hoo Ship Burial
+  year: 700
+
+- title: Lifetime of Charlemagne
+  start_year: 742
+  end_year: 814
+
+- title: Papal States
+  start_year: 754
+  end_year: 1870
+
+- title: Viking Age
+  start_year: 793
+  end_year: 1066
+
+- title: Holy Roman Empire
+  start_year: 962
+  end_year: 1806
+
+- title: Invention of Movable Type in China
+  year: 1040
+
+- title: Battle of Hastings (Norman Conquest)
   year: 1066
+
+- title: Norman Rule of Britain
+  start_year: 1066
+  end_year: 1154
 
 - title: Mongol Invasion of Rus'
   start_year: 1223
@@ -78,6 +123,13 @@
 
 - title: Black Death (Peak in Europe)
   year: 1349
+
+- title: Rennaissance (Approximately)
+  start_year: 1350
+  end_year: 1550
+
+- title: Gutenberg Press Operational
+  year: 1450
 
 - title: Lifetime of Leondardo da Vinci
   start_year: 1452
@@ -97,9 +149,15 @@
   start_year: 1509
   end_year: 1547
 
+- title: Martin Luther Posts Ninety-Five Theses (Protestant Reformation)
+  year: 1517
+
 - title: Spanish Conquest of the Aztec Empire
   start_year: 1519
   end_year: 1521
+
+- title: Church of England Established
+  year: 1534
 
 - title: Lifetime of Galileo Galilei
   start_year: 1564
@@ -108,6 +166,18 @@
 - title: Tokugawa Shogunate
   start_year: 1603
   end_year: 1867
+
+- title: Thirty Years' War
+  start_year: 1618
+  end_year: 1648
+
+- title: English Civil Wars
+  start_year: 1642
+  end_year: 1651
+
+- title: Age of Enlightenment (Approximately)
+  start_year: 1650
+  end_year: 1800
 
 - title: Seven Years War
   start_year: 1756
@@ -136,12 +206,43 @@
   start_year: 1791
   end_year: 1804
 
+- title: War of the First Coalition
+  start_year: 1792
+  end_year: 1797
+
+- title: War of the Second Coalition
+  start_year: 1798
+  end_year: 1802
+
 - title: Coup of Napoleon Bonaparte
   year: 1799
+
+- title: War of the Third Coalition
+  start_year: 1803
+  end_year: 1806
+
+- title: Napoleon Becomes Emperor
+  year: 1804
+
+- title: Battle of Trafalgar
+  year: 1805
+
+- title: War of the Fourth Coalition
+  start_year: 1806
+  end_year: 1807
+
+- title: War of the Fifth Coalition
+  year: 1809
 
 - title: Mexican War of Independence
   start_year: 1810
   end_year: 1821
+
+- title: Abdication of Napoleon
+  year: 1814
+
+- title: Battle of Waterloo
+  year: 1815
 
 - title: Lifetime of Karl Marx
   start_year: 1818
@@ -182,15 +283,21 @@
   start_year: 1878
   end_year: 1953
 
+- title: Demonstration of The Wright Flyer
+  year: 1909
+
+- title: Xinhai Revolution
+  year: 1911
+
 - title: First World War
   start_year: 1914
   end_year: 1918
 
+- title: Bolshevic Revolution
+  year: 1917
+
 - title: Women's Suffrage in the UK
   year: 1918
-
-- title: Xinhai Revolution
-  year: 1911
 
 - title: The Soviet Union
   start_year: 1922
