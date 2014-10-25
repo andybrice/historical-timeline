@@ -94,15 +94,25 @@ def latest_year_in_events( events )
   latest_years.max
 end
 
-get '/timeline' do
-  @events = YAML.load_file('public/dates.yml')
-  @year_range = -4000..2000
+
 # Routes #
+
+get '/:title' do
+  @filename = params[:title] + '.yml'
+  @events = YAML.load_file("data/#{@filename}")
+
+  @timeline_start = earliest_year_in_events( @events ) - 100
+  @timeline_end = latest_year_in_events( @events ) + 100
+
+  @year_range = @timeline_start..@timeline_end
   @origin = { :x => 200.5, :y => 100.5 }
-  builder :timeline
+
+  builder :timeline, :content_type => 'image/svg+xml'
 end
 
-get '/debug-data' do
-  @events = YAML.load_file('dates.yml')
+get '/debug/:file' do
+  @file = params[:file] + '.yml'
+  @events = YAML.load_file("data/#{@filename}")
+
   @events.inspect
 end
