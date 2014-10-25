@@ -3,6 +3,7 @@ require 'yaml'
 require 'builder'
 
 class Builder::XmlMarkup
+  # Custom SVG Generator Methods #
   def check_mark( x, length, attributes = {} )
     self.line attributes, :x1 => x, :y1 => 0, :x2 => x, :y2 => length, :class => 'check'
   end
@@ -42,12 +43,14 @@ class Builder::XmlMarkup
               :y => y + 15,
               'text-anchor' => 'end',
               :class => 'event'
+# Year Calculation Methods #
   end
 end
 
 get '/timeline' do
   @events = YAML.load_file('public/dates.yml')
   @year_range = -4000..2000
+# Routes #
   @origin = { :x => 200.5, :y => 100.5 }
   builder :timeline
 end
