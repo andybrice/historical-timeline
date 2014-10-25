@@ -55,7 +55,43 @@ end
 
 
 # Year Calculation Methods #
+
+def years_in_event( event )
+  event_years = []
+
+  if event['year']
+    event_years << event['year'].to_i
   end
+
+  if event['start_year']
+    event_years << event['start_year'].to_i
+  end
+
+  if event['end_year']
+    event_years << event['end_year'].to_i
+  end
+
+  event_years
+end
+
+def earliest_year_in_event( event )
+  years_in_event( event ).min
+end
+
+def latest_year_in_event( event )
+  years_in_event( event ).min
+end
+
+def earliest_year_in_events( events )
+  earliest_years = events.map { |event| earliest_year_in_event( event ) }
+
+  earliest_years.min
+end
+
+def latest_year_in_events( events )
+  latest_years = events.map { |event| latest_year_in_event( event ) }
+
+  latest_years.max
 end
 
 get '/timeline' do
